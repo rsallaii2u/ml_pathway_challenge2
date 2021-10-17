@@ -2,7 +2,7 @@
 
 ## Wwhat cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment?
 
-## This challlenge consists of four technical analysis deliverables:
+This challlenge consists of four technical analysis deliverables:
 
 - Deliverable 1: Preprocessing the Data for PCA
 - Deliverable 2: Reducing Data Dimensions Using PCA
